@@ -2,10 +2,10 @@
   "favicon": "https://cdn.jsdelivr.net/gh/yukirotasaki/DK-s-nav@image/nav-1709740802907-19E05029DD6FD802C00D6BF22A7FFE8E.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "null",
+  "loading": "random",
   "showGithub": false,
-  "title": "DK‘s发现导航 - 精选实用导航网站",
-  "description": "DisorderKの导航小窝",
+  "title": "发现导航 - 精选实用导航网站",
+  "description": "发现导航 - 精选实用导航网站",
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
   "theme": "Light",
   "appTheme": "App",
@@ -24,23 +24,17 @@
   ],
   "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
   "simThemeHeight": 350,
-  "simThemeAutoplay": false,
+  "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/yukirotasaki/DK-s-nav@image/nav-1709744774324-C6C68117BF45B2A2BB982BB5E0E5010A.jpg",
       "url": "",
       "width": null,
       "height": null
     }
   ],
   "sideThemeHeight": 350,
-  "sideThemeAutoplay": true,
+  "sideThemeAutoplay": false,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
