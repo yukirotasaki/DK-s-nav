@@ -2,10 +2,10 @@
   "favicon": "https://cdn.jsdelivr.net/gh/yukirotasaki/DK-s-nav@image/nav-1709740802907-19E05029DD6FD802C00D6BF22A7FFE8E.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "random",
+  "loading": "null",
   "showGithub": false,
-  "title": "发现导航 - 精选实用导航网站",
-  "description": "发现导航 - 精选实用导航网站",
+  "title": "DK‘s发现导航 - 精选实用导航网站",
+  "description": "DisorderKの导航小窝",
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
   "theme": "Light",
   "appTheme": "App",
@@ -16,13 +16,7 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
+      "src": "https://cdn.jsdelivr.net/gh/yukirotasaki/DK-s-nav@image/nav-1709744812946-5a6cc4b53682247f21b3fa52fa266a38.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -30,7 +24,7 @@
   ],
   "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
   "simThemeHeight": 350,
-  "simThemeAutoplay": true,
+  "simThemeAutoplay": false,
   "sideThemeImages": [
     {
       "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
@@ -50,7 +44,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637462542538-0ed801fb13f9e4c29cdfface91eb6c44.jpeg",
+      "src": "https://cdn.jsdelivr.net/gh/yukirotasaki/DK-s-nav@image/nav-1709744774324-C6C68117BF45B2A2BB982BB5E0E5010A.jpg",
       "url": "",
       "width": null,
       "height": null
