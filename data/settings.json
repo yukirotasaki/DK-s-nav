@@ -23,7 +23,7 @@
     }
   ],
   "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
-  "simThemeHeight": 350,
+  "simThemeHeight": 1000,
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
@@ -33,7 +33,7 @@
       "height": null
     }
   ],
-  "sideThemeHeight": 350,
+  "sideThemeHeight": 1000,
   "sideThemeAutoplay": false,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
