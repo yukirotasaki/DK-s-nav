@@ -1,7 +1,7 @@
 [
   {
     "name": "站内",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
+    "icon": "https://cdn.jsdelivr.net/gh/yukirotasaki/DK-s-nav@image/nav-1709740802907-19E05029DD6FD802C00D6BF22A7FFE8E.png",
     "placeholder": "站内搜索",
     "blocked": false,
     "isInner": true
